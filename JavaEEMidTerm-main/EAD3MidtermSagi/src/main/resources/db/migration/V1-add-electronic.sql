@@ -1,0 +1,1 @@
+insert into Electronic values ( 1, "First", "Good", 100.0);insert into Electronic values ( 2, "Second", "Good2", 200.0);

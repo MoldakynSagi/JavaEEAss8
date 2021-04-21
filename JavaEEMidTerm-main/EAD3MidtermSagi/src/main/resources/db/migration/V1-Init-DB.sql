@@ -1,0 +1,1 @@
+create table Electronic(    id int ;    title varchar;    description varchar;    price double;);create table Purchase(    id int ;    user_id int;    int electronic_id;);
